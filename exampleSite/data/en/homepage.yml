@@ -1,39 +1,39 @@
 ################################# Slider #####################################
 slider:
   enable : true
-  bg_image : "images/banner/banner-1.jpg"
+  bg_image : "images/banner/graduate.png"
   slider_item:
     # slider item loop
-    - title : "Your bright future is our mission"
+    - title : "Хүчирхэг хүмүүсээр дүүрэн ирээдүйг бүтээнэ"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Apply now"
+        label : "Өргөдлөө илгээх"
         link : "contact/"
 
     # slider item loop
-    - title : "Your bright future is our mission"
+    - title : "Empowering lives forever"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Apply now"
+        label : "Өргөдлөө илгээхw"
         link : "contact/"
 
     # slider item loop
-    - title : "Your bright future is our mission"
+    - title : "Хамгийн анхны алтерьнатив сургууль"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Apply now"
+        label : "Өргөдлөө илгээх"
         link : "contact/"
 
 
